@@ -2,10 +2,7 @@ import sys
 
 n = int(input())
 
-for i in range(n):
-    cmd, x = sys.stdin.readline().split()
-    print(cmd,x)
-    
+xlist = []
 
 def push(n,arr) :
     arr.append(n)
@@ -23,6 +20,34 @@ def empty(arr):
     else:
         return 0
     
+def pop(arr):
+    if arr.isempty:
+        return -1
+    else:
+        arr.pop()
+
+
+for i in range(n):
+    cmd, x = sys.stdin.readline().split()
+    if cmd == 'push':
+        push(x,xlist)
+        
+    elif cmd == 'pop':
+        pop(xlist)
+        
+    elif cmd == 'size':
+        print(size(xlist))
+        
+    elif cmd == 'empty' :
+        print(empty(xlist))
+        
+    elif cmd == 'top':
+        print(top(xlist))
+        
+    print(xlist)
+
+    
+
 
 
 
