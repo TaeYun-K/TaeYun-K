@@ -15,7 +15,6 @@
 ---
 
 ### 📫 Let's Connect
-- **Email:** your_email@example.com
-- **Blog:** [Your Blog Name](https://velog.io/@kty8600/posts)
+- **Blog:** [https://velog.io/@kty8600](https://velog.io/@kty8600/posts)
 
 
