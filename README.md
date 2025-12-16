@@ -88,7 +88,9 @@ https://github.com/TaeYun-K/Stalk
 ### 🌱 코코의 숲 (ESG 금융 서비스)
 > 소비 내역 기반 탄소 배출량 계산 & 숲 키우기 앱
 
-<img width="418" height="854" alt="image" src="https://github.com/user-attachments/assets/78ab8be2-e260-4943-9acc-5cccfc6cda34" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/78ab8be2-e260-4943-9acc-5cccfc6cda34" width="360" />
+</p>
 
 - 👑 **팀장**
 - 📅 2025.08 ~ 2025.09
