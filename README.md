@@ -9,8 +9,9 @@
 단순한 기능 구현이 아니라,  
 **오류를 줄이고 운영을 고려한 구조 설계**에 집중합니다.
 
-
-
+<br>
+<br>
+<br>
 
 ---
 
@@ -59,6 +60,9 @@
 
 ## 🛠️ 기술 스택
 
+<div align = "center">
+
+
 ### 💻 Backend
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -67,6 +71,9 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white)
+
+</div>
+
 
 ---
 
