@@ -15,6 +15,10 @@
 
 ---
 
+## 🧩 알고리즘
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kty8600)](https://solved.ac/kty8600/)
+
 ## 🛠️ 기술 스택
 
 ### Language
@@ -105,12 +109,6 @@ https://github.com/TaeYun-K/Stalk
 
 🔗 GitHub  
 https://github.com/TaeYun-K/cocos-forest
-
----
-
-## 🧩 알고리즘
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kty8600)](https://solved.ac/kty8600/)
 
 ---
 
