@@ -10,9 +10,7 @@
 ## 🙋‍♂️ About Me
 - 백엔드 개발자 (Java / Spring Boot, Python / FastAPI)
 - SSAFY 13기 (삼성 SW 아카데미)
-- 알고리즘 문제 해결과 시스템 설계를 꾸준히 학습 중
-- RAG, 실시간 시스템, 금융·플랫폼 서비스에 관심
-
+- GDSC(Google Developer Students Club) 활동
 ---
 
 ## 🧩 알고리즘
