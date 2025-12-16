@@ -88,19 +88,10 @@ https://github.com/TaeYun-K/Stalk
 ### 🌱 코코의 숲 (ESG 금융 서비스)
 > 소비 내역 기반 탄소 배출량 계산 & 숲 키우기 앱
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/78ab8be2-e260-4943-9acc-5cccfc6cda34" width="360" />
-</p>
+| 역할 및 기여 | 화면 |
+|---|---|
+| - 👑 **팀장**  <br/>- 📅 2025.08 ~ 2025.09 <br/><br/> **담당 역할 및 기여** <br/>- 소비 내역 대시보드 API (일/월/카테고리별) <br/>- 공공 데이터 기반 탄소 배출량 계산 로직 구현 <br/>- OCR 기반 영수증 인증 (Clova OCR) <br/>- 금융 API 연동 시 민감 정보 제외 설계 <br/>- 렌더링 성능 개선 (HashMap 기반 조회) | <img src="https://github.com/user-attachments/assets/78ab8be2-e260-4943-9acc-5cccfc6cda34" width="300" /> |
 
-- 👑 **팀장**
-- 📅 2025.08 ~ 2025.09
-
-**담당 역할 및 기여**
-- 소비 내역 대시보드 API (일/월/카테고리별)
-- 공공 데이터 기반 탄소 배출량 계산 로직 구현
-- OCR 기반 영수증 인증 (Clova OCR)
-- 금융 API 연동 시 민감 정보 제외 설계로 보안 강화
-- 렌더링 성능 개선 (HashMap 기반 조회로 최적화)
 
 🔗 GitHub  
 https://github.com/TaeYun-K/cocos-forest
