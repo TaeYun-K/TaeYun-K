@@ -11,6 +11,7 @@
 - 한국해양대학교 컴퓨터공학과
 - SSAFY 13기 (삼성 SW 아카데미)
 - GDSC(Google Developer Students Club) 활동
+
 ---
 
 ## 🏅 Certifications
@@ -18,11 +19,14 @@
 - 정보처리기사
 - SQLD (SQL 개발자)
 - ADSP (데이터분석 준전문가)
+  
 ---
 
 ## 🧩 알고리즘
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kty8600)](https://solved.ac/kty8600/)
+
+---
 
 ## 🛠️ 기술 스택
 
