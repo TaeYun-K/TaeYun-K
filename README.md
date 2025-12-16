@@ -89,7 +89,8 @@ https://github.com/TaeYun-K/Stalk
 > 소비 내역 기반 탄소 배출량 계산 & 숲 키우기 앱
 
 <img src="https://github.com/user-attachments/assets/78ab8be2-e260-4943-9acc-5cccfc6cda34" width="360" />
-<br>
+
+
 - 👑 **팀장**
 - 📅 2025.08 ~ 2025.09
 
