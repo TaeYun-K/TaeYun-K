@@ -9,7 +9,13 @@
 단순한 기능 구현이 아니라,  
 **오류를 줄이고 운영을 고려한 구조 설계**에 집중합니다.
 
+
+
+
 ---
+
+
+
 
 ## 🙋‍♂️ About Me
 
@@ -17,7 +23,11 @@
 - SSAFY 13기 (삼성 SW 아카데미)
 - GDSC (Google Developer Students Club) 활동
 
+
+
 ---
+
+
 
 ## 🏅 Certifications
 <div align = "center">
@@ -30,13 +40,22 @@
 
 </div>
 
+
+
 ---
+
+
 
 ## 🧩 알고리즘
 
+<div align = "center">
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kty8600)](https://solved.ac/kty8600/)
 
+</div>
+
 ---
+
 
 ## 🛠️ 기술 스택
 
@@ -78,7 +97,10 @@
 
 ---
 
+
+
 <div align="center">
+
 ### 📂 Projects
 
 | 화면 | 기간 | 프로젝트 | 분야 | 역할 · 핵심 성과 |
@@ -90,7 +112,10 @@
 </div>
 
 
+
 ---
+
+
 
 ## 📫 Contact
 
