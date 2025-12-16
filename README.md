@@ -108,13 +108,6 @@ https://github.com/TaeYun-K/cocos-forest
 
 ---
 
-## 📊 GitHub 활동
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TaeYun-K&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TaeYun-K&show_icons=true&theme=radical)
-
----
-
 ## 📫 Contact
 - ✍️ Blog: https://velog.io/@kty8600
 - 💻 GitHub: https://github.com/TaeYun-K
