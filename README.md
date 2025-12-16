@@ -67,6 +67,8 @@ https://github.com/TaeYun-K/Rag-Extension
 ### 📈 Stalk – 실시간 화상 주식 상담 플랫폼
 > 화상 상담 + 실시간 차트 드로잉 협업 서비스
 
+<img width="750" alt="image" src="https://github.com/user-attachments/assets/cfc938ca-3265-4e6e-b452-cab3dd5e0a3e" />
+
 - 🏆 **7팀 중 2위**
 - 👑 **팀장**
 - 📅 2025.07 ~ 2025.08
@@ -85,6 +87,8 @@ https://github.com/TaeYun-K/Stalk
 
 ### 🌱 코코의 숲 (ESG 금융 서비스)
 > 소비 내역 기반 탄소 배출량 계산 & 숲 키우기 앱
+
+<img width="418" height="854" alt="image" src="https://github.com/user-attachments/assets/78ab8be2-e260-4943-9acc-5cccfc6cda34" />
 
 - 👑 **팀장**
 - 📅 2025.08 ~ 2025.09
