@@ -19,33 +19,37 @@
 
 ## 🛠️ 기술 스택
 
-### Language
-- **Java** (주 사용 언어)
-- Python
-- JavaScript
+### 💻 Backend 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white)
 
-### Backend / Framework
-- **Spring Boot, Spring MVC**
-- FastAPI
-- RESTful API 설계 및 구현
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### Database / Infra
-- **MySQL**
-- Redis (Stream, Hash, Token 저장소)
-- Milvus (Vector DB)
-- Docker / Docker Compose
-- Jenkins (CI/CD)
-- Nginx (Reverse Proxy)
+### ⚙️ Infra / DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-### 협업 도구
-- Git, GitHub, GitLab
-- Jira, Notion
+🧰 Tools & Collaboration
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 
 ## 💡 주요 프로젝트
 
-### 🧠 RAG 챗봇 플랫폼 (기업 연계)
+### 🤖 RAG 챗봇 플랫폼 (기업 연계)
 > RAG 기반 챗봇 및 통합 관리 웹 서비스
 
 <img width="750" alt="image" src="https://github.com/user-attachments/assets/b368bc3b-ff67-4865-ae9b-51381c303e8c" />
