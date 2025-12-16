@@ -43,6 +43,8 @@
 
 ## 💡 주요 프로젝트
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/b368bc3b-ff67-4865-ae9b-51381c303e8c" />
+
 ### 🧠 RAG 챗봇 플랫폼 (기업 연계)
 > RAG 기반 챗봇 및 통합 관리 웹 서비스
 
