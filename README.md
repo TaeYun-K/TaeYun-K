@@ -102,8 +102,6 @@ https://github.com/TaeYun-K/Stalk
 - OCR 기반 영수증 인증 (Clova OCR)
 - 금융 API 연동 시 민감 정보 제외 설계로 보안 강화
 - 렌더링 성능 개선 (HashMap 기반 조회로 최적화)
-이렇게 하니까 웹이랑 달리 너무 길이가 길어서 불편한데 
-텍스트 오른쪽에 빈 공간에 넣는 방법은 없나
 
 🔗 GitHub  
 https://github.com/TaeYun-K/cocos-forest
