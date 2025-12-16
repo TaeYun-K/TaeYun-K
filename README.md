@@ -89,15 +89,17 @@
 
 ### 📂 Projects
 
-<div align = "center">
+<div align="center">
 
-| 화면                                                                                                      | 기간              | 프로젝트                                                                                 | 분야                 | 역할 · 핵심 성과                                             |
-| --------------------------------------------------------------------------------------------------------- | ----------------- | ---------------------------------------------------------------------------------------- | -------------------- | ------------------------------------------------------------ |
-| <img src="https://github.com/user-attachments/assets/b368bc3b-ff67-4865-ae9b-51381c303e8c" width="230" /> | 2025.11 ~ 2025.12 | **RAG 챗봇 플랫폼 (기업 연계)**<br/>[GitHub](https://github.com/TaeYun-K/Rag-Extension)  | RAG · AI · Backend   | 파일 Ingest 파이프라인 설계<br/>실시간 Embedding 진행률 전송 |
-| <img src="https://github.com/user-attachments/assets/cfc938ca-3265-4e6e-b452-cab3dd5e0a3e" width="230" /> | 2025.07 ~ 2025.08 | **Stalk – 실시간 화상 주식 상담 플랫폼**<br/>[GitHub](https://github.com/TaeYun-K/Stalk) | WebRTC · Backend     | **팀장**<br/>CI/CD 구축 · 화상 연결 안정화                   |
-| <img src="https://github.com/user-attachments/assets/78ab8be2-e260-4943-9acc-5cccfc6cda34" width="120" /> | 2025.08 ~ 2025.09 | **코코의 숲 (ESG 금융 서비스)**<br/>[GitHub](https://github.com/TaeYun-K/cocos-forest)   | 금융 · ESG · Backend | **팀장**<br/>탄소배출 계산 · 성능 최적화                     |
-| <img src = "https://github.com/TaeYun-K/WIT/blob/master/pjt_wit_t11_front/src/assets/homepage.png" width="230"/> | 2025.05 ~ 2025.06 | **WIT – AI 여행 일정 추천 서비스** | AI · 여행 · Backend | TSP 기반 일정 최적화<br/>AI 챗봇 맞춤 일정 추천 |
+| 화면 | 기간 | 프로젝트 | 분야 | 역할 · 핵심 성과 |
+|---|---|---|---|---|
+| <img src="https://github.com/user-attachments/assets/b368bc3b-ff67-4865-ae9b-51381c303e8c" width="200" /> | 2025.11 ~ 2025.12 | **RAG 챗봇 플랫폼 (기업 연계)**<br/>[GitHub](https://github.com/TaeYun-K/Rag-Extension) | RAG · AI · Backend | 파일 Ingest 파이프라인 설계<br/>실시간 Embedding 진행률 전송 |
+| <img src="https://github.com/user-attachments/assets/cfc938ca-3265-4e6e-b452-cab3dd5e0a3e" width="200" /> | 2025.07 ~ 2025.08 | **Stalk – 실시간 화상 주식 상담 플랫폼**<br/>[GitHub](https://github.com/TaeYun-K/Stalk) | WebRTC · Backend | **팀장**<br/>CI/CD 구축 · 화상 연결 안정화 |
+| <img src="https://github.com/user-attachments/assets/78ab8be2-e260-4943-9acc-5cccfc6cda34" width="120" /> | 2025.08 ~ 2025.09 | **코코의 숲 (ESG 금융 서비스)**<br/>[GitHub](https://github.com/TaeYun-K/cocos-forest) | 금융 · ESG · Backend | **팀장**<br/>탄소배출 계산 · 성능 최적화 |
+| <img src="https://raw.githubusercontent.com/TaeYun-K/WIT/master/pjt_wit_t11_front/src/assets/homepage.png" width="200" /> | 2025.03 ~ 2025.05 | **WIT – AI 여행 일정 추천 서비스**<br/>[GitHub](https://github.com/TaeYun-K/WIT) | AI · 여행 · Backend | TSP 기반 일정 최적화<br/>AI 챗봇 맞춤 일정 추천 |
+
 </div>
+
 
 ---
 
