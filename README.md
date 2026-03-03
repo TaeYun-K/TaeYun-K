@@ -115,3 +115,7 @@
 
 - ✍️ Blog: https://velog.io/@kty8600
 - 💻 GitHub: https://github.com/TaeYun-K
+
+## ETC
+
+![My Music](https://sound-badge.vercel.app/api/card.svg?url=https://youtu.be/ViMpXYNfgVs?si=R0kdX2u3ZEoDvIGr)&theme=stream)
